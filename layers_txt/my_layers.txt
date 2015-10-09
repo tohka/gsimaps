@@ -10,7 +10,7 @@
       "attribution": "",
       "cocotile": true,
       "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
-      "html": "<a href=\"https://github.com/tohka/edit/gh-pages/layers_txt/my_layers.txt\">edit me</a>"
+      "html": "<a href=\"https://github.com/tohka/gsimaps/edit/gh-pages/layers_txt/my_layers.txt\">edit me</a>"
     }
   ]
 }
