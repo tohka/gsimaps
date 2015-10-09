@@ -3,7 +3,7 @@
     {
       "type": "Layer",
       "id": "std",
-      "title": "•W€’n}",
+      "title": "æ¨™æº–åœ°å›³",
       "iconUrl": "",
       "url": "http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
       "subdomains": "",
