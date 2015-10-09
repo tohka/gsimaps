@@ -14,7 +14,7 @@
     },
     {
       "type": "Layer",
-      "id": "example231".
+      "id": "example231",
       "title": "内堀",
       "url": "http://tohka.github.io.gsimaps/example231/{z}/{x}/{y}/geojson",
       "html": "",
