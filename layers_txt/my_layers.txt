@@ -11,6 +11,15 @@
       "cocotile": true,
       "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
       "html": "<a href=\"https://github.com/tohka/gsimaps/edit/gh-pages/layers_txt/my_layers.txt\">edit me</a>"
+    },
+    {
+      "type": "Layer",
+      "id": "example231".
+      "title": "内堀",
+      "url": "http://tohka.github.io.gsimaps/example231/{z}/{x}/{y}/geojson",
+      "html": "",
+      "maxZoom": 18,
+      "maxNativeZoom": 2
     }
   ]
 }
