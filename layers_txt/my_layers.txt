@@ -3,14 +3,14 @@
     {
       "type": "Layer",
       "id": "std",
-      "title": "標準地図",
+      "title": "標準地図（2015/10/09）",
       "iconUrl": "",
       "url": "http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
       "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
-      "html": "<a href='https://github.com/tohka/edit/gh-pages/layers_txt/my_layers.txt'>edit</a>"
+      "html": "<a href=\"https://github.com/tohka/edit/gh-pages/layers_txt/my_layers.txt\">edit me</a>"
     }
   ]
 }
