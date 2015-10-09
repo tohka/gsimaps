@@ -16,7 +16,7 @@
       "type": "Layer",
       "id": "example231",
       "title": "内堀",
-      "url": "http://tohka.github.io/gsimaps/example231/{z}/{x}/{y}/geojson",
+      "url": "http://tohka.github.io/gsimaps/example231/{z}/{x}/{y}.geojson",
       "html": "",
       "maxZoom": 18,
       "maxNativeZoom": 2
