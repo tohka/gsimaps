@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "std",
+      "title": "ïWèÄínê}",
+      "iconUrl": "",
+      "url": "http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
+      "html": "https://github.com/tohka/edit/gh-pages/layers_txt/my_layers.txt"
+    }
+  ]
+}
